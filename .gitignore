@@ -1,4 +1,6 @@
 __pycache__
 *.1
 auth0Env.py
+users.csv
+
 
